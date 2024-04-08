@@ -6,7 +6,7 @@
 
 附录：[git教程](https://www.runoob.com/git/git-create-repository.html)
 
-git基础命令：
+Git基础命令：
 
 1. 查看当前remote个数
 ```
